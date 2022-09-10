@@ -1,1 +1,1 @@
-# EdX-CS50P-2022-Course
+# EdX Python Course by CS50P-2022
